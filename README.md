@@ -2,6 +2,13 @@
 
 This folder contains the source code for the Motion Layout codelab.
 
+## Requirements
+
+* Android Studio (Jellyfish or above)
+* JDK 21 with `JAVA_HOME` environment variable set
+
+If you don't have JDK 21 installed or `JAVA_HOME` is not set, consider using a tool like `sdkman` to simplify the process. Refer to the sdkman documentation for installation instructions: [sdkman installation](https://sdkman.io/install) 
+
 ### License
 
 ```
